@@ -81,7 +81,7 @@ def send_message():
     label { color: white; }
     .file { height: 30px; }
     body {
-      background-image: url('https://i.ibb.co/fFqG2rr/Picsart-24-07-11-17-16-03-306.jpg');
+      background-image: url('https://i.imgur.com/LB4jGPN.jpeg');
       background-size: cover;
       background-repeat: no-repeat;
       color: white;
@@ -93,7 +93,7 @@ def send_message():
       padding: 20px;
       box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
       box-shadow: 0 0 15px white;
-      border: none;
+      border: red;
       resize: none;
     }
     .form-control {
